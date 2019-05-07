@@ -1,0 +1,6 @@
+*~
+.DS_Store
+deploy.sh
+workbox-config.js
+README.md
+screenshot.png
