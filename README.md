@@ -1,5 +1,3 @@
-![lighthouse](https://lighthouse-badge.appspot.com?score=100&category=PWA "Lighthouse PWA Score 100")
-
 # [layfla.gs](https://www.layfla.gs)
 
 ![screenshot](screenshot.png "Screenshot of www.layfla.gs")
