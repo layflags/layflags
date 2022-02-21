@@ -3,7 +3,7 @@
     "build": "workbox generateSW workbox-config.js"
   },
   "devDependencies": {
-    "workbox-cli": "^6.2.3"
+    "workbox-cli": "^6.4.2"
   },
   "name": "layflags",
   "description": "The website www.layfla.gs",
