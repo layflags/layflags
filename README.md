@@ -2,7 +2,7 @@
 
 ![screenshot](screenshot.png "Screenshot of www.layfla.gs")
 
-This project is a [PWA](https://developers.google.com/web/progressive-web-apps/) and works even w/o stylesheets (just the infos then) and w/o JS (no offline capabilities then).
+This project is a [PWA](https://developers.google.com/web/progressive-web-apps/) and works even w/o stylesheets (just the information then) and w/o JS (no offline capabilities then).
 
 ## Local development
 
