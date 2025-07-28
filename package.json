@@ -4,13 +4,12 @@
     "test": "node test/workbox.test.js"
   },
   "devDependencies": {
-    "workbox-cli": "^6.4.2",
-    "workbox-build": "^6.4.2"
+    "workbox-build": "^6.4.2",
+    "workbox-cli": "^6.4.2"
   },
   "name": "layflags",
   "description": "The website www.layfla.gs",
   "version": "1.0.0",
-  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/layflags/layflags.git"
