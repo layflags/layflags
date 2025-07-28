@@ -11,9 +11,13 @@ Start a development server with e.g.:
 $ npx live-server
 ```
 
-## Deployment on [Now](https://zeit.co/now)
+## Deployment on [Vercel](https://vercel.com)
+
+Deployments are handled by Vercel. Pushing to the repository's main branch
+will automatically trigger a new build running `npm run build` to generate the
+service worker. Manual deployments can be started with the
+[`vercel` CLI](https://vercel.com/docs/cli):
 
 ```
-$ ./deploy.sh
+$ npx vercel --prod
 ```
-Needs [workbox](https://www.npmjs.com/package/workbox-cli) and [now](https://www.npmjs.com/package/now) installed globally.
