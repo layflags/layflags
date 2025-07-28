@@ -1,9 +1,11 @@
 {
   "scripts": {
-    "build": "workbox generateSW workbox-config.js"
+    "build": "workbox generateSW workbox-config.js",
+    "test": "node test/workbox.test.js"
   },
   "devDependencies": {
-    "workbox-cli": "^6.4.2"
+    "workbox-cli": "^6.4.2",
+    "workbox-build": "^6.4.2"
   },
   "name": "layflags",
   "description": "The website www.layfla.gs",
